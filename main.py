@@ -6,7 +6,7 @@ import requests
 from pymongo import MongoClient
 from bson import ObjectId
 
-#Library object to hold its information
+#Library object to hold its information.
 lib=Library()
 
 #Returning the instructions to the user
